@@ -8,6 +8,7 @@ interface STATICPROPS {
   posts: POST[]
 }
 
+
 const BlogPage: React.FC<STATICPROPS> = ({ posts }) => {
 // const BlogPage: React.FC = () => {
   return (
