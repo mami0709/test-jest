@@ -4,6 +4,8 @@ import Post from '../components/Post'
 import { GetStaticProps } from 'next'
 import { POST } from '../types/Types'
 
+
+
 interface STATICPROPS {
   posts: POST[]
 }
