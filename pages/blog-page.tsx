@@ -6,6 +6,7 @@ import { POST } from '../types/Types'
 
 
 
+
 interface STATICPROPS {
   posts: POST[]
 }
